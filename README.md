@@ -1,6 +1,6 @@
 ## Hi there 👋
 ### I'm Mukul Jangir, Android Developer
-(4+ Exp | 25+ Apps | 6k+ Linkedin | 10x Growth Mindset)
+(4+ Exp | 25+ Apps | 6k+ Linkedin | 10x Growth Mindset | Stop Sleeping For Bugs)
 
 - 🔭 I’m currently working on Android Apps, OpenSource, Android & Kotlin Libraries.
 - 💬 Ask me about Android, Gradle, Kotlin Coroutines and Flow, Clean Architecture etc.
