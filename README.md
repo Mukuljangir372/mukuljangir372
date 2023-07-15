@@ -9,7 +9,7 @@
 - 📫 How to reach me: mukul.jangir372@gmail.com
   
 ---
-### Projects 🐾
+### Projects 🏕️
 - 📌 Spendtrack: Track Your Expenses (Android App) - [View on Playstore](https://play.google.com/store/apps/details?id=com.mu.jan.spendtrack)
 - 📌 Snoofy: Listen Music & Videos (Android App) - [View on Playstore](https://play.google.com/store/apps/details?id=com.mu.jan.snoofy_freemusicandvideos)
 - 📌 Notebook, ToDo, Reminder (Android App) - [View on Playstore](https://play.google.com/store/apps/details?id=com.mu.jan.xnody.application)
@@ -20,7 +20,7 @@
 - 📌 NFT (Android App) - [View on Github](https://github.com/Mukuljangir372/NFT-App)
 
 ---
-### Articles 🐾
+### Articles ✌️
 - 📝 How To Write Clean Code In Kotlin - [Read here](https://medium.com/@mukuljangir372/how-to-write-clean-code-in-kotlin-f4722fa546a4)
 - 📝 Best Architecture In Kotlin Multiplatform - [Read here](https://medium.com/@mukuljangir372/best-architecture-in-kotlin-multiplatform-7b8ca5ec05eb)
 - 📝 Kotlin Coroutines For Beginners - [Read here](https://medium.com/@mukuljangir372/kotlin-coroutines-for-beginners-97ce3d5c6f23)
