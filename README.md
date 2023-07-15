@@ -9,7 +9,7 @@
 - 📫 How to reach me: mukul.jangir372@gmail.com
   
 ---
-### Projects 🚨
+### Projects ✅
 - 📌 Spendtrack: Track Your Expenses (Android App) - [View on Playstore](https://play.google.com/store/apps/details?id=com.mu.jan.spendtrack)
 - 📌 Snoofy: Listen Music & Videos (Android App) - [View on Playstore](https://play.google.com/store/apps/details?id=com.mu.jan.snoofy_freemusicandvideos)
 - 📌 Notebook, ToDo, Reminder (Android App) - [View on Playstore](https://play.google.com/store/apps/details?id=com.mu.jan.xnody.application)
