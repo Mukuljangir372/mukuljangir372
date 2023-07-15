@@ -32,8 +32,12 @@
 - 📝 Dependency Injection In Kotlin Multiplatform Mobile - [Read here](https://medium.com/@mukuljangir372/dependency-injection-in-kotlin-multiplatform-mobile-5e60c45c5010)
 
 ---
-### Experiment 🐾
-- 📝 Flavor Multimodule Architecture - [View on Github](https://github.com/Mukuljangir372/Powerfull-Multi-Module-With-Flavor)
+### Experiment 🧪
+- 🧪 Flavor Multimodule Architecture - [View on Github](https://github.com/Mukuljangir372/Powerfull-Multi-Module-With-Flavor)
+- 🧪 Audio Player With MVI - [View on Github](https://github.com/Mukuljangir372/Audio-Player-MVI-Android)
+- 🧪 Discord Swipe Tabs - [View on Github](https://github.com/Mukuljangir372/discord-swipe-tabs)
+
+
 
 
 
