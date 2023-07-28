@@ -33,7 +33,6 @@
 
 ---
 ### Experiment 🧪
-- 🗜️ C Interoparability in Kotlin Multiplatform - [View on Github](https://github.com/Mukuljangir372/C-Interoperability-In-KMM)
 - 🗜️ Flavor Multimodule Architecture - [View on Github](https://github.com/Mukuljangir372/Powerfull-Multi-Module-With-Flavor)
 - 🗜️ Audio Player With MVI - [View on Github](https://github.com/Mukuljangir372/Audio-Player-MVI-Android)
 - 🗜️ Discord Swipe Tabs - [View on Github](https://github.com/Mukuljangir372/discord-swipe-tabs)
