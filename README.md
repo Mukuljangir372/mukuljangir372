@@ -35,6 +35,7 @@
 ### Experiment 🧪
 - 🗜️ Flavor Multimodule Architecture - [View on Github](https://github.com/Mukuljangir372/Powerfull-Multi-Module-With-Flavor)
 - 🗜️ Audio Player With MVI - [View on Github](https://github.com/Mukuljangir372/Audio-Player-MVI-Android)
+- 🗜️ Serial + Nats Communication - [View on Github](https://github.com/Mukuljangir372/serial-nats-communication) 
 - 🗜️ Discord Swipe Tabs - [View on Github](https://github.com/Mukuljangir372/discord-swipe-tabs)
 
 
