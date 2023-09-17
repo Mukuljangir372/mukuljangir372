@@ -17,7 +17,6 @@
 - 📌 Primer: Chat With Friends (Android App) - [View on Github](https://github.com/Mukuljangir372/Primer-Android)
 - 📌 FastMapper (Kotlin Object Auto-Mapping Library) - [View on Github](https://github.com/Mukuljangir372/fastmapper)
 - 📌 Reactive-Store (State Management Reactive Kotlin Library) - [View on Github](https://github.com/Mukuljangir372/Reactive-Store)
-- 📌 NFT (Android App) - [View on Github](https://github.com/Mukuljangir372/NFT-App)
 
 ---
 ### ARTICLES ✌️
