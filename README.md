@@ -20,6 +20,7 @@
 
 ---
 ### ARTICLES ✌️
+- 📝 Mobile System Design - [Read here](https://medium.com/@mukuljangir372/mobile-system-design-7f50a3d3d7b3)
 - 📝 How To Write Clean Code In Kotlin - [Read here](https://medium.com/@mukuljangir372/how-to-write-clean-code-in-kotlin-f4722fa546a4)
 - 📝 Best Architecture In Kotlin Multiplatform - [Read here](https://medium.com/@mukuljangir372/best-architecture-in-kotlin-multiplatform-7b8ca5ec05eb)
 - 📝 Kotlin Coroutines For Beginners - [Read here](https://medium.com/@mukuljangir372/kotlin-coroutines-for-beginners-97ce3d5c6f23)
