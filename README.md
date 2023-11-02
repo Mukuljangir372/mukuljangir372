@@ -19,6 +19,7 @@
 
 ---
 ### ARTICLES ✌️
+- 📝 Best Practises For Writing Testable Code In Kotlin - [Read here](https://medium.com/@mukuljangir372/best-practises-for-writing-testable-code-in-kotlin-31761481ffd0)
 - 📝 Best Practises In ViewModel - [Read here](https://medium.com/@mukuljangir372/best-practises-in-viewmodel-e84e2bd0b678)
 - 📝 Mobile System Design - [Read here](https://medium.com/@mukuljangir372/mobile-system-design-7f50a3d3d7b3)
 - 📝 How To Write Clean Code In Kotlin - [Read here](https://medium.com/@mukuljangir372/how-to-write-clean-code-in-kotlin-f4722fa546a4)
