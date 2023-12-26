@@ -32,13 +32,6 @@
 - 📝 Clean and Scalable Architecture in Android and KMM - [Read here](https://betterprogramming.pub/how-to-setup-a-clean-and-scalable-architecture-in-android-and-kotlin-for-multiplatform-mobile-apps-eeba0948545c)
 - 📝 Dependency Injection In Kotlin Multiplatform Mobile - [Read here](https://medium.com/@mukuljangir372/dependency-injection-in-kotlin-multiplatform-mobile-5e60c45c5010)
 
----
-### EXPERIMENT 🧪
-- 🗜️ Flavor Multimodule Architecture - [View on Github](https://github.com/Mukuljangir372/Powerfull-Multi-Module-With-Flavor)
-- 🗜️ Audio Player With MVI - [View on Github](https://github.com/Mukuljangir372/Audio-Player-MVI-Android)
-- 🗜️ Serial + Nats Communication - [View on Github](https://github.com/Mukuljangir372/serial-nats-communication) 
-- 🗜️ Discord Swipe Tabs - [View on Github](https://github.com/Mukuljangir372/discord-swipe-tabs)
-
 
 
 
