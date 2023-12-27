@@ -1,6 +1,5 @@
 ## Hi there 👋
-### I'm Mukul Jangir, Software Engineer - Android
-(4+ Exp | 25+ Apps | Android | Kotlin | Architecture | Gradle | Kotlin Multiplatform Mobile | iOS | Swift | Kotlin)
+### I'm Mukul Jangir, Android Engineer, Expert In Architecture & Security
 
 - 🔭 Currently working on Android, Kotlin, Architecture, Compose, Gradle, Kotlin Multiplatform Mobile.
 - 📌 Apps on Playstore: [@MukulJangir](https://play.google.com/store/apps/developer?id=Mukul+Jangir)
