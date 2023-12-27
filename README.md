@@ -8,7 +8,7 @@
 - 📫 How to reach me: mukul.jangir372@gmail.com
   
 ---
-### PROJECTS
+### PROJECTS ✨
 - 📌 Spendtrack: Track Your Expenses (Android App) - [View on Playstore](https://play.google.com/store/apps/details?id=com.mu.jan.spendtrack)
 - 📌 Snoofy: Listen Music & Videos (Android App) - [View on Playstore](https://play.google.com/store/apps/details?id=com.mu.jan.snoofy_freemusicandvideos)
 - 📌 Notebook, ToDo, Reminder (Android App) - [View on Playstore](https://play.google.com/store/apps/details?id=com.mu.jan.xnody.application)
@@ -17,7 +17,7 @@
 - 📌 Reactive-Store (State Management Reactive Kotlin Library) - [View on Github](https://github.com/Mukuljangir372/Reactive-Store)
 
 ---
-### ARTICLES
+### ARTICLES ✨
 - 📝 Best Practises For Writing Testable Code In Kotlin - [Read here](https://medium.com/@mukuljangir372/best-practises-for-writing-testable-code-in-kotlin-31761481ffd0)
 - 📝 Best Practises In ViewModel - [Read here](https://medium.com/@mukuljangir372/best-practises-in-viewmodel-e84e2bd0b678)
 - 📝 Mobile System Design - [Read here](https://medium.com/@mukuljangir372/mobile-system-design-7f50a3d3d7b3)
