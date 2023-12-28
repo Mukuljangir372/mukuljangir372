@@ -1,5 +1,4 @@
-## Hi there 👋
-### I'm Mukul Jangir, Android Engineer, Expert In Architecture & Security
+### Hi 👋, I'm Mukul Jangir, Android Engineer, Expert In Architecture & Security
 Works on Android, Kotlin, Architecture, Compose, Gradle, Kotlin Multiplatform Mobile.
 
 ![](https://github-profile-trophy.vercel.app/?username=mukuljangir372)
