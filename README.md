@@ -6,7 +6,10 @@
 - 📝 Read articles on Medium: [@mukuljangir372](https://medium.com/@mukuljangir372)
 - 🍉 Connect on Linkedin: [@mukuljangir372](https://www.linkedin.com/in/mukuljangir372)
 - 📫 How to reach me: mukul.jangir372@gmail.com
-  
+
+
+![](https://github-profile-trophy.vercel.app/?username=mukuljangir372)
+
 ---
 ### PROJECTS ✨
 - 📌 Spendtrack: Track Your Expenses (Android App) - [View on Playstore](https://play.google.com/store/apps/details?id=com.mu.jan.spendtrack)
