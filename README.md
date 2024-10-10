@@ -6,7 +6,6 @@ Works on Android, Kotlin, Architecture, Compose, Gradle, Kotlin Multiplatform Mo
 ### Connect with me ✨
 - 🌎 Connect on Linkedin (10K+): [@mukuljangir372](https://www.linkedin.com/in/mukuljangir372)
 - 📝 Read Articles on Medium (1K+): [@mukuljangir372](https://medium.com/@mukuljangir372)
-- 📫 How To Reach Me: mukul.jangir372@gmail.com
 
 
 
